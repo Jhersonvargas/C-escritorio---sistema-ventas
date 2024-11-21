@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6DA979-29AE-4A37-9661-3D7D880EDB87}|QuerySQL\\QuerySQL.csproj|e:\\semestre 4\\jherson\\curso-seminario\\trabajo grupal final c#\\sistemaventas\\querysql\\queryresumen.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F6DA979-29AE-4A37-9661-3D7D880EDB87}|QuerySQL\\QuerySQL.csproj|solutionrelative:querysql\\queryresumen.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|e:\\semestre 4\\jherson\\curso-seminario\\trabajo grupal final c#\\sistemaventas\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\modales\\mdproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\modales\\mdproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capadatos\\cd_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capadatos\\cd_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\modales\\mdcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capaentidad\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capadatos\\cd_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\frmdetalleventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetalleventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB813323-9111-40C9-92AF-287DB19FEE91}|CapaNegocio\\CapaNegocio.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capanegocio\\cn_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB813323-9111-40C9-92AF-287DB19FEE91}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB813323-9111-40C9-92AF-287DB19FEE91}|CapaNegocio\\CapaNegocio.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capanegocio\\cn_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB813323-9111-40C9-92AF-287DB19FEE91}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB813323-9111-40C9-92AF-287DB19FEE91}|CapaNegocio\\CapaNegocio.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capanegocio\\cn_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB813323-9111-40C9-92AF-287DB19FEE91}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capaentidad\\detalle_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\detalle_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\utilidades\\opcioncombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\utilidades\\opcioncombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\modales\\mdcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueryResumen.txt",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\QuerySQL\\QueryResumen.txt",
+              "RelativeDocumentMoniker": "QuerySQL\\QueryResumen.txt",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\QuerySQL\\QueryResumen.txt",
+              "RelativeToolTip": "QuerySQL\\QueryResumen.txt",
+              "ViewState": "AQIAAMQCAAAAAAAAAAAAAFcDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-03T19:40:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-03T19:39:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CD_Venta.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaDatos\\CD_Venta.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Venta.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaDatos\\CD_Venta.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Venta.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwMcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CD_Rol.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaDatos\\CD_Rol.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Rol.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaDatos\\CD_Rol.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Rol.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "CapaPresentacion\\CrystalReport1.rpt",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\CrystalReport1.rpt",
+              "RelativeToolTip": "CapaPresentacion\\CrystalReport1.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMSSURBVDhPVVJdaFRHFP5m7tx79y\u002B7yW6ym9QEjdEtiekGQWysUND2SfogCqF98EEURBAs7XMh\u002BGIf2z70ofRFH/RBRAW1T4KgUpsWiSn\u002BNKBmY7Ixa9jczb37c39mprN3k0i\u002B4ZyZOWfOx5wfgnX8fHfWRKPRY8QEWzdtAYHpkvnhlTNniB8ahNgLKX/ZJPjp\u002BtRoVDcuZDvjfUxT5tBDIJX2/ACW7RY9Ln7z9dij80fyrgpOKNm9SfDrrafjCVO7euCTbTtMXUMYqdDaLKeJ2QXLoRJ/Ob7/o83k43OHRp2Wn7bUBjRKke6IIKKz8NwSRkm4d0T1xK5tqc\u002BpwEVm8U/DlBW2EICsX9W/pFpcLUc6ECRQaQj1i6rOpShAk9/pXn1ESrkR0QZRgS0DVQdJOZZJCXf8myiyl9jeH8GewTQKO3v0XFc8EzdpZHJy8gNBq/Rai0EJV4VelkuYkdO47dzAtfplvNZnkEwxZJJRRAz1mrWbxQrfT8crFjOLFXSORAn1BUcpWMTf7hTK\u002BhJWvDLm/FdoBDV0024MkKF2g9ZBO8zY4R0Z4/TMG3ri2VvZ\u002BW/Jwr3yP3huz6K4Oo96pQa7tIbp109wae532NxSaX6goD8cz/jffpUMDo3FSM3TyJV7TUz9mcV/8wHmUAS3Ocg0wfDCCL7OfYO02RXWagN07CPjyWBO/LFngNwfzxu1noSO6kI/Ks/2o7E0gKibxGeZgzg5dgr7svsQYeZWgt7exPtXTx/Oujx4nu7w3aP7E8j3pqCXRyEeHcPHdBznvjyPLwqHETOiaibUXDASFj0kIITIiYkJLgMaMMpkX9rEUM5EdzyKrBzCib6zGO4qwDQi0NSIU0XANA1M19sEoVYIlLgcWKpKWE2CZFzDQIbB5AnU6xxrNRdVx4Pd8CGkQDu83f4QnKDpNLW3lXdet8FEdHdWuinDfb\u002ByWq8yTXgpx\u002BOUUim4lK4XvNBjxFaDJDfLMfPOzsUDeVxInF6r13etWo1ScXHl\u002BnLZepDuii/2D2ZqGjdE\u002BJgRV6a8ypF83v0fdd8/x9xMAJYAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T02:58:02.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaEntidad\\Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Venta.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaEntidad\\Venta.cs",
+              "RelativeToolTip": "CapaEntidad\\Venta.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mdCliente.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Modales\\mdCliente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdCliente.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Modales\\mdCliente.cs",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaEntidad\\Usuario.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Usuario.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaEntidad\\Usuario.cs",
+              "RelativeToolTip": "CapaEntidad\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mdProducto.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Modales\\mdProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdProducto.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Modales\\mdProducto.cs",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdProducto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CD_Usuario.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Permiso.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaEntidad\\Permiso.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Permiso.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaEntidad\\Permiso.cs",
+              "RelativeToolTip": "CapaEntidad\\Permiso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CD_Compra.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaDatos\\CD_Compra.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Compra.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaDatos\\CD_Compra.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Compra.cs",
+              "ViewState": "AQIAAIAAAAAAoMPj7LTsv5YAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmVentas.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmVentas.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\frmVentas.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmVentas.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAkwH4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmDetalleVenta.Designer.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\frmDetalleVenta.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleVenta.Designer.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\frmDetalleVenta.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleVenta.Designer.cs",
+              "ViewState": "AQIAABMCAAAAAAAAAAAkwCQCAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmCompras.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\frmCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCompras.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\frmCompras.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmCompras.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mdProveedor.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Modales\\mdProveedor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdProveedor.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Modales\\mdProveedor.cs",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdProveedor.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CN_Reporte.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaNegocio\\CN_Reporte.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Reporte.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaNegocio\\CN_Reporte.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Reporte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CN_Venta.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaNegocio\\CN_Venta.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Venta.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaNegocio\\CN_Venta.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Venta.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwCUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmDetalleCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\frmDetalleCompra.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleCompra.cs",
+              "ToolTip": "D:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-25T02:58:02.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAlwIAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CN_Proveedor.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaNegocio\\CN_Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Proveedor.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaNegocio\\CN_Proveedor.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Proveedor.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Detalle_Venta.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaEntidad\\Detalle_Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Detalle_Venta.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaEntidad\\Detalle_Venta.cs",
+              "RelativeToolTip": "CapaEntidad\\Detalle_Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OpcionCombo.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Utilidades\\OpcionCombo.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Utilidades\\OpcionCombo.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Utilidades\\OpcionCombo.cs",
+              "RelativeToolTip": "CapaPresentacion\\Utilidades\\OpcionCombo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\packages.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\packages.config",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\packages.config",
+              "RelativeToolTip": "CapaPresentacion\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-01-25T02:58:02.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "mdCliente.Designer.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Modales\\mdCliente.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdCliente.Designer.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Modales\\mdCliente.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdCliente.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA7wMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T02:58:02.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmDetalleCompra.cs",
+              "DocumentMoniker": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\frmDetalleCompra.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleCompra.cs",
+              "ToolTip": "E:\\semestre 4\\Jherson\\curso-seminario\\TRABAJO GRUPAL FINAL C#\\SistemaVentas\\CapaPresentacion\\frmDetalleCompra.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleCompra.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-25T02:58:02.232Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

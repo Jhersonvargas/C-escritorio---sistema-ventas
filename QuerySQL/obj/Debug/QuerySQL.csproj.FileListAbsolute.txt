@@ -1,0 +1,18 @@
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\QuerySQL.dll
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\QuerySQL.pdb
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.AssemblyReference.cache
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.CoreCompileInputs.cache
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.dll
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.pdb
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\QuerySQL.dll
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\QuerySQL.pdb
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.AssemblyReference.cache
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.CoreCompileInputs.cache
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.dll
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.pdb
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\QuerySQL.dll
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\bin\Debug\QuerySQL.pdb
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.AssemblyReference.cache
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.csproj.CoreCompileInputs.cache
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.dll
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\QuerySQL\obj\Debug\QuerySQL.pdb

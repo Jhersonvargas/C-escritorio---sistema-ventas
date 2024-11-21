@@ -1,0 +1,30 @@
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\maico\Downloads\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\034_CursoSistemaVentaEscritorio-master (1)\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\PF-desarrollo_actual\SistemaVentas\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\PF-desarrollo_actual\SistemaVentas\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\PF-desarrollo_actual\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\PF-desarrollo_actual\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\PF-desarrollo_actual\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\PF-desarrollo_actual\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\semestre 4\Jherson\curso-seminario\TRABAJO GRUPAL FINAL C#\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
